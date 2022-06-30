@@ -1,6 +1,7 @@
 import React from 'react';
 import { Form, Divider, Input, InputNumber, Button } from 'antd';
 // https://ant.design/components/form/ 이런 design 형식을 적용시켜주는거!
+// Divider는 hr같이 한 줄 띄우는거!
 import 'antd/dist/antd.css';            // antdesign도 css 적용해줘야함!!
 import './upload.scss';
 
